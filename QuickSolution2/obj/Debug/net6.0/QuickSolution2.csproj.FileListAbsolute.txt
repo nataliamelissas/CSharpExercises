@@ -1,0 +1,14 @@
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\bin\Debug\net6.0\QuickSolution2.exe
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\bin\Debug\net6.0\QuickSolution2.deps.json
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\bin\Debug\net6.0\QuickSolution2.runtimeconfig.json
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\bin\Debug\net6.0\QuickSolution2.dll
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\bin\Debug\net6.0\QuickSolution2.pdb
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\QuickSolution2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\QuickSolution2.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\QuickSolution2.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\QuickSolution2.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\QuickSolution2.dll
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\refint\QuickSolution2.dll
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\QuickSolution2.pdb
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\QuickSolution2.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Documents\dev\CSharpTutorial\QuickSolution2\obj\Debug\net6.0\ref\QuickSolution2.dll
